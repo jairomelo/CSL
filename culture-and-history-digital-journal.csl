@@ -3,21 +3,20 @@
   <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title xml:lang="en">Culture &amp; History Digital Journal</title>
-    <id>http://www.zotero.org/styles/culture-and-history-digital-journal</id>
-    <link href="http://www.zotero.org/styles/culture-and-history-digital-journal" rel="self"/>
-    <link href="http://www.zotero.org/styles/fachhochschule-vorarlberg-author-date" rel="template"/>
-    <link href="http://www.institut-praxisforschung.com/app/download/6167762784/Harvard-Zitierweise.pdf?t=1410296308" rel="documentation"/>
-    <link href="http://www.institut-praxisforschung.com/publikationen/studienhilfen/" rel="documentation"/>
+    <id>https://github.com/jairomelo/CSL/blob/master/culture-and-history-digital-journal.csl</id>
+    <link href="https://github.com/jairomelo/CSL/blob/master/culture-and-history-digital-journal.csl" rel="self"/>
+    <link href="https://github.com/jairomelo/CSL/blob/master/culture-and-history-digital-journal.csl" rel="template"/>
+    <link href="http://cultureandhistory.revistas.csic.es/index.php/cultureandhistory/about/submissions#authorGuidelines" rel="documentation"/>
     <contributor>
-      <name>Saskia Mestern</name>
-      <email>saskia.mestern@gmail.com</email>
+      <name>Jairo Antonio Melo Flórez</name>
+      <email>jairom@colmich.edu.mx</email>
     </contributor>
     <category citation-format="author-date"/>
     <category field="generic-base"/>
-    <category field="political_science"/>
+    <category field="human_science"/>
     <category field="social_science"/>
     <summary>A Harvard author-date style variant as used for Culture and History digital journal. The in-text citation style is adapted to the journal requirements.</summary>
-    <updated>2017-11-16T01:00:40+00:00</updated>
+    <updated>2017-11-16</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
