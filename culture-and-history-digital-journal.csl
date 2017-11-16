@@ -46,7 +46,7 @@
     </names>
   </macro>
   <macro name="author-short">
-    <names variable="author" delimiter="; ">
+    <names variable="author" delimiter="; " suffix=", ">
       <name form="short" delimiter=" " and="text" delimiter-precedes-last="always" initialize-with=". "/>
       <substitute>
         <names variable="editor"/>
